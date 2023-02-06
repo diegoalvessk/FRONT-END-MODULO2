@@ -1,0 +1,5 @@
+Se_Caminho_5km&&&Corro2km_passo_o_dia_bem
+
+Se_levanto_cedo||levanto_antes_das_8_saio_tranquilo
+
+se_!=_termino_o_trabalho||!=tenho_compromisso_saio_tarde
