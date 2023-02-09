@@ -22,3 +22,5 @@ do {
     soma = soma + numero
     contador++
 } while (contador<8);
+
+//oi
